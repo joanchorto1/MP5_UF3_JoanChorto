@@ -1,4 +1,4 @@
-# Recerca somre UML
+# Recerca sobre UML
 
 ### Buscar quines són les principals versions de UML publicades fins la més actual i de quin any són.
 
