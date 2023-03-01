@@ -30,3 +30,8 @@ Es un consorci format al 1989 dedicat al cuidat i a establiexer diversos enstand
 
 La OMG va accepatar UML com a un d'aquests estandars.
 
+# Exemples de diagrama de classes amb UML
+
+![ClassesM5UF3](https://user-images.githubusercontent.com/113586166/222081888-c694372f-967f-4230-a850-a14be660dbb5.png)
+
+
