@@ -32,6 +32,12 @@ La OMG va accepatar UML com a un d'aquests estandars.
 
 # Exemples de diagrama de classes amb UML
 
+### Classes
+
 ![ClassesM5UF3](https://user-images.githubusercontent.com/113586166/222081888-c694372f-967f-4230-a850-a14be660dbb5.png)
+
+### Generalització
+
+![ClassesM5UF3 (1)](https://user-images.githubusercontent.com/113586166/222089795-2abb5fb7-78ec-469f-8637-3cd03abc9c20.png)
 
 
