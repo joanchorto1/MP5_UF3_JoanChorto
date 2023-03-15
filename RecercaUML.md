@@ -40,4 +40,19 @@ La OMG va accepatar UML com a un d'aquests estandars.
 
 ![ClassesM5UF3 (1)](https://user-images.githubusercontent.com/113586166/222089795-2abb5fb7-78ec-469f-8637-3cd03abc9c20.png)
 
+###Relacions
+
+![image](https://user-images.githubusercontent.com/113586166/225257741-9fe2de72-2f12-4fe3-ab46-3de698d2c2e1.png)
+
+### Agregació
+
+![image](https://user-images.githubusercontent.com/113586166/225257908-4ad06e40-9208-4781-8e1e-e862afbf9650.png)
+
+### Composició
+
+![image](https://user-images.githubusercontent.com/113586166/225258033-7b2f0016-e442-482d-8ec7-d0d4cae8cac6.png)
+
+### Classes Asociatives
+
+![image](https://user-images.githubusercontent.com/113586166/225258132-e47ad3bf-0f08-4386-aae3-170470649b30.png)
 
