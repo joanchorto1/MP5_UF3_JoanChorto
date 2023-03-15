@@ -40,7 +40,7 @@ La OMG va accepatar UML com a un d'aquests estandars.
 
 ![ClassesM5UF3 (1)](https://user-images.githubusercontent.com/113586166/222089795-2abb5fb7-78ec-469f-8637-3cd03abc9c20.png)
 
-###Relacions
+### Relació
 
 ![image](https://user-images.githubusercontent.com/113586166/225257741-9fe2de72-2f12-4fe3-ab46-3de698d2c2e1.png)
 
